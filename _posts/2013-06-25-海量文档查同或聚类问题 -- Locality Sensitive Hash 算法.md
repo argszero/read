@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 海量文档查同或聚类问题 -- Locality Sensitive Hash 算法
+title: 海量文档查同或聚类问题LocalitySensitiveHash算法
 ---
-# 海量文档查同或聚类问题 -- Locality Sensitive Hash 算法
+# 海量文档查同或聚类问题LocalitySensitiveHash算法
 
 原文：http://blog.csdn.net/fxjtoday/article/details/6200257
 
